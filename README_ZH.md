@@ -1,10 +1,8 @@
-[English](README.md) | 中文
-
----
-
 <div align="center">
 
 # Untrunc for Android
+
+### 在 Android 上修复损坏/截断的音视频文件
 
 [![Version](https://img.shields.io/github/v/release/NaivePerdant/untrunc-android?color=blue&label=version)](https://github.com/NaivePerdant/untrunc-android/releases)
 [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](https://github.com/NaivePerdant/untrunc-android/releases)
@@ -12,12 +10,13 @@
 [![Downloads](https://img.shields.io/github/downloads/NaivePerdant/untrunc-android/total)](https://github.com/NaivePerdant/untrunc-android/releases/latest)
 [![License](https://img.shields.io/badge/license-GPL%20v2+-red.svg)](LICENSE)
 
-一款修复损坏/截断音视频文件的 Android 应用。  
-基于 ponchio/anthwlock 的 [untrunc](https://github.com/anthwlock/untrunc) 项目。
+[English](README.md) | 中文
 
 </div>
 
 ---
+
+基于 ponchio/anthwlock 的 [untrunc](https://github.com/anthwlock/untrunc) 项目。
 
 ## 功能介绍
 
