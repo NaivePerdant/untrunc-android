@@ -1,6 +1,23 @@
+English | [中文](README_ZH.md)
+
+---
+
+<div align="center">
+
 # Untrunc for Android
 
-An Android app that repairs broken/truncated audio and video files. Based on [untrunc](https://github.com/anthwlock/untrunc) by ponchio/anthwlock.
+[![Version](https://img.shields.io/github/v/release/NaivePerdant/untrunc-android?color=blue&label=version)](https://github.com/NaivePerdant/untrunc-android/releases)
+[![Platform](https://img.shields.io/badge/platform-Android-green.svg)](https://github.com/NaivePerdant/untrunc-android/releases)
+[![Built with](https://img.shields.io/badge/built%20with-FFmpeg-blue.svg)](https://ffmpeg.org/)
+[![Downloads](https://img.shields.io/github/downloads/NaivePerdant/untrunc-android/total)](https://github.com/NaivePerdant/untrunc-android/releases/latest)
+[![License](https://img.shields.io/badge/license-GPL%20v2+-red.svg)](LICENSE)
+
+An Android app that repairs broken/truncated audio and video files.  
+Based on [untrunc](https://github.com/anthwlock/untrunc) by ponchio/anthwlock.
+
+</div>
+
+---
 
 ## What it does
 
